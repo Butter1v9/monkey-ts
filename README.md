@@ -1,7 +1,7 @@
 # MonkeyTS 🐒 – A Monkey Language Interpreter in TypeScript
 
 This project is a TypeScript port of the Monkey programming language interpreter from [*Writing An Interpreter In Go*](https://interpreterbook.com/) by Thorsten Ball.  
-The goal is to implement a fully functioning interpreter for the Monkey language while leveraging modern TypeScript, including strict types and idiomatic practices.
+The goal is to implement a fully functioning interpreter for the Monkey language in TypeScript
 
 ## 📚 About the Book
 
